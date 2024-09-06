@@ -1,16 +1,14 @@
-## Hi there 👋
+## 关于我自己 👯
 
-<!--
-**GoldenglowBF/GoldenglowBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-我是一名大学学生，正在学习编程相关知识，在这个领域中我还有许多不足之处，希望大家多多包容，共同进步。
 
-Here are some ideas to get you started:
+## 个人能力 🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-由于是转专业学生，我对编程语言的知识掌握谈不上丰富，目前能够熟练使用的有C语言与C++，也在尝试学习其他语言。
+-个人对于游戏开发有着较大的兴趣，目前在努力了解游戏编程与计算机图形学的相关知识。
+
+## 未来三年的发展 💬
+
+-未来希望通过考研来继续深造，培养自身能力
+-短期目标则是学好自己的课程，同时通过自学掌握更多门编程语言。
+-这些目标最终都是为了未来的就业做准备
